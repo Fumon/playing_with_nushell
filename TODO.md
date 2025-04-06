@@ -1,0 +1,1 @@
+    - [ ] Improve nushell's parallel operator. It should be possible to replicate gnuparallel's io scheduled behaviour with something like [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) which is explicitly trying to behave like gnuparallel.
